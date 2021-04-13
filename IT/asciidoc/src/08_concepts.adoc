@@ -10,7 +10,7 @@ rilevante in più parti (= trasversali) del sistema.
 Tali concetti sono spesso correlati a più building blocks.
 Possono includere molti argomenti diversi, come
 
-* modello di domonio
+* modello di dominio
 * modelli di architettura o modelli di design
 * regole per l'utilizzo di una tecnologia specifica
 * decisioni principali, spesso tecniche, di decisioni generali

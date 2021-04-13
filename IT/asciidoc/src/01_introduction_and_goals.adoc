@@ -76,7 +76,7 @@ Tabella con i nomi dei ruoli, i nomi delle persone e le loro aspettative rispett
 
 [options="header",cols="1,2,2"]
 |===
-|Rouolo/Nome|Contatto|Aspettative
+|Ruolo/Nome|Contatto|Aspettative
 | _<Ruolo-1>_ | _<Contatto-1>_ | _<Aspettatiive-1>_
 | _<Ruolo-2>_ | _<Contatto-2>_ | _<Aspettatiive-2>_
 |===
